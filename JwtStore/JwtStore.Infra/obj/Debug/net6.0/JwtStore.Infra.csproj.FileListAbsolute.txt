@@ -1,0 +1,15 @@
+D:\Workspace\Aulas\JwtStore\JwtStore.Infra\bin\Debug\net6.0\JwtStore.Infra.deps.json
+D:\Workspace\Aulas\JwtStore\JwtStore.Infra\bin\Debug\net6.0\JwtStore.Infra.dll
+D:\Workspace\Aulas\JwtStore\JwtStore.Infra\bin\Debug\net6.0\JwtStore.Infra.pdb
+D:\Workspace\Aulas\JwtStore\JwtStore.Infra\bin\Debug\net6.0\JwtStore.Core.dll
+D:\Workspace\Aulas\JwtStore\JwtStore.Infra\bin\Debug\net6.0\JwtStore.Core.pdb
+D:\Workspace\Aulas\JwtStore\JwtStore.Infra\obj\Debug\net6.0\JwtStore.Infra.csproj.AssemblyReference.cache
+D:\Workspace\Aulas\JwtStore\JwtStore.Infra\obj\Debug\net6.0\JwtStore.Infra.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspace\Aulas\JwtStore\JwtStore.Infra\obj\Debug\net6.0\JwtStore.Infra.AssemblyInfoInputs.cache
+D:\Workspace\Aulas\JwtStore\JwtStore.Infra\obj\Debug\net6.0\JwtStore.Infra.AssemblyInfo.cs
+D:\Workspace\Aulas\JwtStore\JwtStore.Infra\obj\Debug\net6.0\JwtStore.Infra.csproj.CoreCompileInputs.cache
+D:\Workspace\Aulas\JwtStore\JwtStore.Infra\obj\Debug\net6.0\JwtStore.Infra.csproj.CopyComplete
+D:\Workspace\Aulas\JwtStore\JwtStore.Infra\obj\Debug\net6.0\JwtStore.Infra.dll
+D:\Workspace\Aulas\JwtStore\JwtStore.Infra\obj\Debug\net6.0\refint\JwtStore.Infra.dll
+D:\Workspace\Aulas\JwtStore\JwtStore.Infra\obj\Debug\net6.0\JwtStore.Infra.pdb
+D:\Workspace\Aulas\JwtStore\JwtStore.Infra\obj\Debug\net6.0\ref\JwtStore.Infra.dll
