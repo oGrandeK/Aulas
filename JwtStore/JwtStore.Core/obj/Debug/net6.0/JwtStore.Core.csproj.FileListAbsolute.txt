@@ -1,11 +1,11 @@
+D:\Workspace\Aulas\JwtStore\JwtStore.Core\bin\Debug\net6.0\JwtStore.Core.deps.json
+D:\Workspace\Aulas\JwtStore\JwtStore.Core\bin\Debug\net6.0\JwtStore.Core.dll
+D:\Workspace\Aulas\JwtStore\JwtStore.Core\bin\Debug\net6.0\JwtStore.Core.pdb
 D:\Workspace\Aulas\JwtStore\JwtStore.Core\obj\Debug\net6.0\JwtStore.Core.csproj.AssemblyReference.cache
 D:\Workspace\Aulas\JwtStore\JwtStore.Core\obj\Debug\net6.0\JwtStore.Core.GeneratedMSBuildEditorConfig.editorconfig
 D:\Workspace\Aulas\JwtStore\JwtStore.Core\obj\Debug\net6.0\JwtStore.Core.AssemblyInfoInputs.cache
 D:\Workspace\Aulas\JwtStore\JwtStore.Core\obj\Debug\net6.0\JwtStore.Core.AssemblyInfo.cs
 D:\Workspace\Aulas\JwtStore\JwtStore.Core\obj\Debug\net6.0\JwtStore.Core.csproj.CoreCompileInputs.cache
-D:\Workspace\Aulas\JwtStore\JwtStore.Core\bin\Debug\net6.0\JwtStore.Core.deps.json
-D:\Workspace\Aulas\JwtStore\JwtStore.Core\bin\Debug\net6.0\JwtStore.Core.dll
-D:\Workspace\Aulas\JwtStore\JwtStore.Core\bin\Debug\net6.0\JwtStore.Core.pdb
 D:\Workspace\Aulas\JwtStore\JwtStore.Core\obj\Debug\net6.0\JwtStore.Core.dll
 D:\Workspace\Aulas\JwtStore\JwtStore.Core\obj\Debug\net6.0\refint\JwtStore.Core.dll
 D:\Workspace\Aulas\JwtStore\JwtStore.Core\obj\Debug\net6.0\JwtStore.Core.pdb

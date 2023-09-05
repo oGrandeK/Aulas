@@ -7,7 +7,10 @@ D:\Workspace\Aulas\JwtStore\JwtStore.Api\bin\Debug\net6.0\JwtStore.Api.dll
 D:\Workspace\Aulas\JwtStore\JwtStore.Api\bin\Debug\net6.0\JwtStore.Api.pdb
 D:\Workspace\Aulas\JwtStore\JwtStore.Api\bin\Debug\net6.0\Azure.Core.dll
 D:\Workspace\Aulas\JwtStore\JwtStore.Api\bin\Debug\net6.0\Azure.Identity.dll
+D:\Workspace\Aulas\JwtStore\JwtStore.Api\bin\Debug\net6.0\Flunt.dll
 D:\Workspace\Aulas\JwtStore\JwtStore.Api\bin\Debug\net6.0\Humanizer.dll
+D:\Workspace\Aulas\JwtStore\JwtStore.Api\bin\Debug\net6.0\MediatR.dll
+D:\Workspace\Aulas\JwtStore\JwtStore.Api\bin\Debug\net6.0\MediatR.Contracts.dll
 D:\Workspace\Aulas\JwtStore\JwtStore.Api\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
 D:\Workspace\Aulas\JwtStore\JwtStore.Api\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
 D:\Workspace\Aulas\JwtStore\JwtStore.Api\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
@@ -37,6 +40,9 @@ D:\Workspace\Aulas\JwtStore\JwtStore.Api\bin\Debug\net6.0\Microsoft.IdentityMode
 D:\Workspace\Aulas\JwtStore\JwtStore.Api\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
 D:\Workspace\Aulas\JwtStore\JwtStore.Api\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
 D:\Workspace\Aulas\JwtStore\JwtStore.Api\bin\Debug\net6.0\Mono.TextTemplating.dll
+D:\Workspace\Aulas\JwtStore\JwtStore.Api\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Workspace\Aulas\JwtStore\JwtStore.Api\bin\Debug\net6.0\SendGrid.dll
+D:\Workspace\Aulas\JwtStore\JwtStore.Api\bin\Debug\net6.0\StarkbankEcdsa.dll
 D:\Workspace\Aulas\JwtStore\JwtStore.Api\bin\Debug\net6.0\System.CodeDom.dll
 D:\Workspace\Aulas\JwtStore\JwtStore.Api\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
 D:\Workspace\Aulas\JwtStore\JwtStore.Api\bin\Debug\net6.0\System.Drawing.Common.dll

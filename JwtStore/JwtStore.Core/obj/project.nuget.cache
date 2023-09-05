@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "uOolOC7eJfZynkLBsXx2FdbGOG01DkB0QpXZkzLP5OxGhZs9Qj8nocUtqSFj9PefbZlwH4xE0SIRj0dms78k6Q==",
+  "dgSpecHash": "+1TZyr5mog+D7JlR43myPdVG5PE5BRmcToFynb4+m8oD2WHLMrSsUCwFrVf2nNk8G4LNpHDonqaX8cZLk2S5vA==",
   "success": true,
   "projectFilePath": "D:\\Workspace\\Aulas\\JwtStore\\JwtStore.Core\\JwtStore.Core.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\kelvi\\.nuget\\packages\\flunt\\2.0.5\\flunt.2.0.5.nupkg.sha512",
+    "C:\\Users\\kelvi\\.nuget\\packages\\mediatr\\12.1.1\\mediatr.12.1.1.nupkg.sha512",
+    "C:\\Users\\kelvi\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\kelvi\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
